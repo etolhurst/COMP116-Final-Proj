@@ -1,0 +1,25 @@
+{
+  "name": "hide_npm_code",
+  "version": "1.0.0",
+  "description": "Comp116 final proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etolhurst/COMP116-Final-Proj.git"
+  },
+  "files": [
+    "test.js"
+  ],
+  "keywords": [
+    "vunurability"
+  ],
+  "author": "Eric <ectolhurst@gmail.com> (https://github.com/etolhurst)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etolhurst/COMP116-Final-Proj/issues"
+  },
+  "homepage": "https://github.com/etolhurst/COMP116-Final-Proj#readme"
+}
