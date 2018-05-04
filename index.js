@@ -1,1 +1,1 @@
-alert ("first commit");
+console.log ("first commit");
