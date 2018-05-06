@@ -1,6 +1,6 @@
 {
   "name": "hide_npm_code",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Comp116 final proj",
   "main": "test.js",
   "scripts": {
